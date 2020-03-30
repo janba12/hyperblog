@@ -1,0 +1,3 @@
+Mi nombre es Jansel Barrios
+tengo 24 años
+soy estudiante de platzi y estudio la carrera de javaScript
