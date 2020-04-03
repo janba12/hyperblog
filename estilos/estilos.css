@@ -26,3 +26,12 @@ body{
     padding: 0;
     margin: 0px  20px 0px 20px;
 }
+#footer{
+    height: 40px;
+    color: white;
+    background: #333;
+    font-family: monospace;
+    padding: 1.5em;
+    font-size: 15px;
+    text-align: center;
+}
