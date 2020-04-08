@@ -9,3 +9,5 @@ Este es el curso que necesitaba para poder empezar mi carrera de ginecobstetra e
 - y muchas otras cosas mas.
 - Creado por el increible Jansel barrios
 - incluye ejemplos en windows, linux y mac
+- Disponible para todas las edades.
+
